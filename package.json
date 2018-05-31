@@ -12,9 +12,6 @@
     "example",
     "heroku"
   ],
-  "engines": {
-    "node": "4.1.1"
-  },
   "author": "Scott Hurlow <scott.hurlow@galvanize.com>",
   "license": "ISC",
   "dependencies": {
